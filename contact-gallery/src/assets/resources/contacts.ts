@@ -1,4 +1,4 @@
-import { Contact } from "./contact";
+import { Contact } from "../../assets/resources/contact";
 
 export const CONTACTS: Contact[] = [
     {
